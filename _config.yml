@@ -1,1 +1,2 @@
 remote_theme: daviddarnes/alembic
+bundle exec jekyll serve
