@@ -25,7 +25,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://drive.google.com/open?id=1rpUdBsEeLcRQkbgqk8pRTJndb7uDfYOn"
+logo: "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjhtI-5tq7dAhWOdN8KHZ2yAqEQjRx6BAgBEAU&url=http%3A%2F%2Frickandmorty.wikia.com%2Fwiki%2FNoob-Noob&psig=AOvVaw3kGUdbzsv2kyGWMvwqAaaW&ust=1536599781420605"
 
 # Pagination
 paginate: 5
