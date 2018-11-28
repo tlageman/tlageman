@@ -7,26 +7,26 @@ All maps produced in GeoDa.
 #### 1. Local Moran Maps
 
 ##### Cluster Map
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/Guerry_Cluster.png)
+![](Guerry_Cluster.png)
 
 ##### Significance Map
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/Guerry_Significance.png)
+![](Guerry_Significance.png)
 
 #### 2. Local Geary Maps
 
 ##### Cluster Map
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/LocalGeary_Cluster.png)
+![](LocalGeary_Cluster.png)
 
 ##### Significance Map
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/LocalGeary_Significance.png)
+![](LocalGeary_Significance.png)
 
 #### 3. Getis-Ord Gi Maps
 
 ##### Cluster Map
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/GetisOrd_Cluster.png)
+![](GetisOrd_Cluster.png)
 
 ##### Significance Map
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/GetisOrd_Sig.png)
+![](GetisOrd_Sig.png)
 
 
 ### Part 2
@@ -37,10 +37,10 @@ were used to perform a Local Moran's I on median household income values. The
 Moran's I value shows a slight positive autocorrelation: 0.280193
 
 ##### Moran's I Plot
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/mhhi_moransI.png)
+![](mhhi_moransI.png)
 
 ##### Cluster Map of Median Household Income
-![](/Users/tjleggz/Desktop/GES 687/lab_6/maps/mhhi_cluster.png)
+![](mhhi_cluster.png)
 
 This map shows a row of community statistical areas from east to west that
 have low median incomes surrounded by other neighborhoods with low median
