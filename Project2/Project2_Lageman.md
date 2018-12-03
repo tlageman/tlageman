@@ -4,7 +4,7 @@ Project 2: Travis Lageman
 
 #### Baltimore City Housing Citations (2008-2018)
 
-![GIF](/Users/tjleggz/Desktop/GES 687/Project2_Lageman/products/Housing_Lageman.gif)
+![GIF](Project2/Housing_Lageman.gif)
 
 ##### Project Description:
 
