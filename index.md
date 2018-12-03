@@ -48,33 +48,32 @@ This is a teaser image of a gif showing the percentage of housing citations by n
 
 ### Project 3
 
-![It's Fine Alt Text](project3_demo/p3_teaser.png)
+![Proj3_Teaser](Project3/GROW_teaser.png)
 
-[See more details here.](https://tlageman.github.io/project1_bamap/project1.html)
+[See more details here.](https://tlageman.github.io/project1_bamap/Project3_Lageman.html)
 
-This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. Pellentesque eget mauris vel mi tristique finibus vitae quis massa. Mauris vulputate, nulla vel tincidunt interdum, sem mauris scelerisque neque, suscipit pellentesque felis augue a erat.
+This project shows the geographic distribution of attendees from four pop-up events of a developing community greening initiative called GROW Centers. The overall distrubtion is analyzed using a kernel analysis. In addition, each pop-up and its respective attendees are identified. A report accompanies the analysis.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop
+<small>__Tools__: ArcGIS, Kernel Analysis,
 
 <small>__Data__:
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+Attendee Data Collected by GROW Center Staff (Kept Confidential), [Baltimore Community Statistical Areas  with Demographic/Census Data](https://bniajfi.org/community/Baltimore%20City/) </small>
 
 </div>
-
 <div style="display: table-cell; width:370px" markdown="1">
 
 ### Project 4
 
-![It's Fine Alt Text](project4_demo/p4_teaser.png)
+![Proj4_Teaser](Project4/p4_teaser.png)
 
-[See more details here.](https://tlageman.github.io/project2_sfi/project2.html)
+[See more details here.](https://tlageman.github.io/Project4/FinalProject_Lageman.html)
 
-Phasellus consequat quam elit, et iaculis risus pellentesque aliquet. Proin ut enim dui. Ut elementum, purus nec rhoncus sagittis, nibh nunc auctor nulla, eu condimentum nisi velit eget magna. Nulla feugiat tincidunt dictum. Vestibulum congue sapien elit. Maecenas non sodales ligula, quis tempor mi.
+This is where my final project for GES 687 will be.
 
 <small>__Tools__: QGIS, R
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+[TBD](TBD.com) </small>
 
 </div>
 </div>
