@@ -11,7 +11,7 @@ title: Travis Lageman's Portfolio
 
 [See more details here.](https://tlageman.github.io/Project1/Lageman_Project1.html)
 
-This is a 2753px × 781px teaser image of a 3-D Map showing Resident 311 Rat-related requests in Baltiomre City from 2014 to 2018. The city is divided into 1/4 mile hexagons with a heigh attribute equal to the number of requests in a given hexagon. Neighborhoods are identified as majority white or black. A 2-D map is also included.
+This is a teaser image of a 3-D Map showing Resident 311 Rat-related requests in Baltiomre City from 2014 to 2018. The city is divided into 1/4 mile hexagons with a heigh attribute equal to the number of requests in a given hexagon. Neighborhoods are identified as majority white or black. A 2-D map is also included.
 
 <small>__Tools__: QGIS, Qgis2threejs, Database Manager
 
@@ -28,22 +28,17 @@ This is a 2753px × 781px teaser image of a 3-D Map showing Resident 311 Rat
 
 ### Project 2
 
-![It's Fine Alt Text](Project2/HousingGif_teaser.png)
+![Proj2_Teaser](Project2/HousingGif_teaser.png)
 
 [See more details here.](https://tlageman.github.io/Project2/Project2_Lageman.html)
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
+This is a teaser image of a gif showing the percentage of housing citations by neighborhood in Baltimore for each year form 2008-2018.
 
-```html
-<small>Text to *make* small.</small>
-```
-
-Notice I used markdown inside the html tags.
-
-<small>__Tools__: QGIS, R</small>
+<small>__Tools__: QGIS, ArcGIS, Photoshop </small>
 
 <small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+[Baltimore City Housing Citations Dataset](https://data.baltimorecity.gov/Housing-Development/Housing-Citations/pugq-wdem)
+, [Baltimore City Neighborhoods Shapefile](http://gis-baltimore.opendata.arcgis.com/datasets/neighborhoods) </small>
 
 </div>
 </div>
