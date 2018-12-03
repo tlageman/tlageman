@@ -32,11 +32,12 @@ Travis Lageman: tlagema1@umbc.edu
 ### SQL Queries:
   * SELECT neighbor, count(objectid) FROM realproperty WHERE year_build < 1900 AND year_build !=0 GROUP BY neighbor ORDER BY count(objectid)
     - This query identifies the number of identified pre-1900 built properties by neighborhood and organizes them in ascending order.
-
+![Query](Query1_Lageman.png)
 
   * SELECT neighbor, count(objectid) FROM realproperty GROUP BY neighbor ORDER BY neighbor
     - This query presents a count of the number of properties in each neighborhood, which could be used to determine a ratio of pre-1900 properties for each neighborhood.
-
+![Query](Query2_Lageman.png)
 
   * SELECT neighbor, avg(taxbase) FROM realproperty GROUP BY neighbor ORDER BY avg(taxbase)
     - This query determines the average of the taxbase value for each neighborhood.
+![Query](Query3_Lageman.png)
