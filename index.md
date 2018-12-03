@@ -7,9 +7,9 @@ title: Travis Lageman's Portfolio
 
 ### Project 1
 
-![Proj1_Teaser](project1/311RatRequests_Lageman.png)
+![Proj1_Teaser](Project1/311RatRequests_Lageman.png)
 
-[See more details here.](https://tlageman.github.io/project1/project1.html)
+[See more details here.](https://tlageman.github.io/Project1/Lageman_Project1.html)
 
 This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla.
 
