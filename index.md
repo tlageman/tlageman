@@ -7,7 +7,7 @@ title: Travis Lageman's Portfolio
 
 ### Project 1
 
-![Proj1_Teaser](Project1/311RatRequests_Lageman.png)
+![Proj1_Teaser](Project1/311RatRequestsTeaser_Lageman.png)
 
 [See more details here.](https://tlageman.github.io/Project1/Lageman_Project1.html)
 
@@ -24,9 +24,9 @@ This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum
 
 ### Project 2
 
-![It's Fine Alt Text](project2_sfi/p2_teaser.png)
+![It's Fine Alt Text](Project2/HousingGif_teaser.png)
 
-[See more details here.](https://tlageman.github.io/project2_sfi/project2.html)
+[See more details here.](https://tlageman.github.io/Project2/Project2_Lageman.html)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
