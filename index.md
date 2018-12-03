@@ -11,12 +11,16 @@ title: Travis Lageman's Portfolio
 
 [See more details here.](https://tlageman.github.io/Project1/Lageman_Project1.html)
 
-This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla.
+This is a 2753px × 781px teaser image of a 3-D Map showing Resident 311 Rat-related requests in Baltiomre City from 2014 to 2018. The city is divided into 1/4 mile hexagons with a heigh attribute equal to the number of requests in a given hexagon. Neighborhoods are identified as majority white or black. A 2-D map is also included.
 
-<small>__Tools__: QGIS, Interpolation, Photoshop</small>
+<small>__Tools__: QGIS, Qgis2threejs, Database Manager
 
 <small>__Data__:
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+[Baltimore City Real Property Database](https://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0)
+,[Baltimore City Community Statistical Area with Demographic Data](https://bniajfi.org/)
+,[311 Service Requests for Rat/Rodent Problems](https://data.baltimorecity.gov/City-Services/311-Customer-Service-Requests/9agw-sxsr)
+,[Baltimore City Digital Elevation Model - MD iMAP](https://imap.maryland.gov/Pages/lidar-dem-download-files.aspx)
+</small>
 
 </div>
 
