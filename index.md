@@ -68,7 +68,7 @@ Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Communit
 
 [See more details here.](https://tlageman.github.io/Project4/FinalProject_Lageman.html)
 
-This is where my final project for GES 687 will be.
+This is where my final project for GES 687 will be put.
 
 <small>__Tools__: QGIS, R
 
