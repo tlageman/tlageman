@@ -50,7 +50,7 @@ This is a teaser image of a gif showing the percentage of housing citations by n
 
 ![Proj3_Teaser](Project3/GROW_teaser.png)
 
-[See more details here.](https://tlageman.github.io/project1_bamap/Project3_Lageman.html)
+[See more details here.](https://tlageman.github.io/Project3/Project3_Lageman.html)
 
 This project shows the geographic distribution of attendees from four pop-up events of a developing community greening initiative called GROW Centers. The overall distrubtion is analyzed using a kernel analysis. In addition, each pop-up and its respective attendees are identified. A report accompanies the analysis.
 
