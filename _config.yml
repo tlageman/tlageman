@@ -1,4 +1,4 @@
-remote_theme: chalk
+remote_theme: nielsenramon/chalk
 
 navigation_header:
   Home: /
