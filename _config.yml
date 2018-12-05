@@ -1,4 +1,4 @@
-remote_theme: nielsenramon/chalk
+remote_theme: github/pages-gem
 
 navigation_header:
   Home: /
