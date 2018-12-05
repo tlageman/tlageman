@@ -5,7 +5,7 @@ Travis Lageman
 
 #### Baltimore City Housing Citations (2008-2018)
 
-![GIF](Housing_Lageman.gif)
+![GIF](Project2/Housing_Lageman.gif)
 
 ##### Project Description:
 
