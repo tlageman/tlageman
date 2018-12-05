@@ -54,10 +54,10 @@ This is a teaser image of a gif showing the percentage of housing citations by n
 
 This project shows the geographic distribution of attendees from four pop-up events of a developing community greening initiative called GROW Centers. The overall distrubtion is analyzed using a kernel analysis. In addition, each pop-up and its respective attendees are identified. A report accompanies the analysis.
 
-<small>__Tools__: ArcGIS, Kernel Analysis,
+<small>__Tools__: ArcGIS, Kernel Analysis
 
 <small>__Data__:
-Attendee Data Collected by GROW Center Staff (Kept Confidential), [Baltimore Community Statistical Areas  with Demographic/Census Data](https://bniajfi.org/community/Baltimore%20City/) </small>
+Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Community Statistical Areas  with Demographic/Census Data](https://bniajfi.org/community/Baltimore%20City/) </small>
 
 </div>
 <div style="display: table-cell; width:370px" markdown="1">
