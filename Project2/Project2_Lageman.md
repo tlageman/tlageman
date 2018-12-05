@@ -1,6 +1,7 @@
-Project 2: Travis Lageman
+Project 2
 ---
 
+Travis Lageman
 
 #### Baltimore City Housing Citations (2008-2018)
 
