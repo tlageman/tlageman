@@ -7,7 +7,7 @@ title: Travis Lageman's Portfolio
 
 ### Project 1
 
-![Proj1_Teaser](Project1/311RatRequestsTeaser_Lageman.png)
+![Proj1_Teaser](Project1/311RatTeaser_Lageman.png)
 
 [See more details here.](https://tlageman.github.io/Project1/Lageman_Project1.html)
 
