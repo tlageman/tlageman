@@ -11,7 +11,7 @@ The purpose of this study is to explore how and where resources, provided by Bal
 
 #### Maps
 
-[Four Pop-ups Map](DPW_4PopupLocations.jpeg)
+[Four Pop-ups Map](DPW_4PopupLocations.jpg)
 
 [Density Map](DPW_DensityAnalysis.png)
 
