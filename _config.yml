@@ -1,6 +1,6 @@
 remote_theme: chalk
 
-blog_theme: light # Or use dark
-name: Chalk
+blog_theme: dark # Or use light
+name: Selected Projects
 paginate: 25
 url:
