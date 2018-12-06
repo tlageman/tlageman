@@ -1,6 +1,10 @@
-remote_theme: chalk
+remote_theme: daviddarnes/alembic
 
-blog_theme: dark # Or use light
-name: Selected Projects
-paginate: 25
-url:
+
+navigation_header:
+  Home: /
+  Project 1: /Project1/Project1_Lageman.html
+  Project 2: /Project2/Project2_Lageman.html
+  Project 3: /Project3/GROW_Lageman.html
+  Project 4: /Project4/FinalProject_Lageman.html
+
