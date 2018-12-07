@@ -9,9 +9,9 @@ title: Travis Lageman's Portfolio
 
 ![Proj1_Teaser](Project1/311RatTeaser_Lageman.png)
 
-[See more details here.](https://tlageman.github.io/Project1/Lageman_Project1c.html)
+[See more details here.](https://tlageman.github.io/Project1/Lageman_Project1.html)
 
-This is a teaser image of a 3-D Map showing Resident 311 Rat-related requests in Baltiomre City from 2014 to 2018. The city is divided into 1/4 mile hexagons with a heigh attribute equal to the number of requests in a given hexagon. Neighborhoods are identified as majority white or black. A 2-D map is also included.
+A 3-D Map showing Resident 311 Rat-related service requests in Baltiomre City from 2014 to 2018. The city is divided into 1/4 mile hexagons with a height attribute equal to the number of requests in a given hexagon. Neighborhoods are identified as majority white or black. A 2-D map is also included.
 
 <small>__Tools__: QGIS, Qgis2threejs, Database Manager
 
@@ -32,7 +32,7 @@ This is a teaser image of a 3-D Map showing Resident 311 Rat-related requests in
 
 [See more details here.](https://tlageman.github.io/Project2/Project2_Lageman.html)
 
-This is a teaser image of a gif showing the percentage of housing citations by neighborhood in Baltimore for each year form 2008-2018.
+Using python, geocoded housing citations were split up by year from 2008-2018 and written to individual shapefiles. A gif shows the percentage of housing citations by neighborhood in Baltimore for each of those years.
 
 <small>__Tools__: QGIS, ArcGIS, Photoshop </small>
 
