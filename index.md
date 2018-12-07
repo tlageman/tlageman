@@ -9,7 +9,7 @@ title: Travis Lageman's Portfolio
 
 ![Proj1_Teaser](Project1/311RatTeaser_Lageman.png)
 
-[See more details here.](https://tlageman.github.io/Project1/Lageman_Project1b.html)
+[See more details here.](https://tlageman.github.io/Project1/Lageman_Project1c.html)
 
 This is a teaser image of a 3-D Map showing Resident 311 Rat-related requests in Baltiomre City from 2014 to 2018. The city is divided into 1/4 mile hexagons with a heigh attribute equal to the number of requests in a given hexagon. Neighborhoods are identified as majority white or black. A 2-D map is also included.
 
