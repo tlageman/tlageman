@@ -20,9 +20,9 @@ Travis Lageman
 
   Further analysis could be carried out with the information provided by the SQL queries, which might provide insight into a relationship between 311 Rat Requests, age of property and property value.
 
-  ![311 Rat Requests 2D](Project1/311RatRequestsFlat_Lageman.pdf)
+  [311 Rat Requests 2D](Project1/311RatRequestsFlat_Lageman.pdf)
 
-  ![311 Rat Requests 3D](Project1/311RatRequests_Lageman.png)
+  [311 Rat Requests 3D](Project1/311RatRequests_Lageman.png)
 
   ### Data:
   * Baltimore City Real Property Database - [Baltimore City Open GIS Portal](https://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0)
