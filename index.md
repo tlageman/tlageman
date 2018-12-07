@@ -3,7 +3,7 @@ title: Travis Lageman's Portfolio
 ---
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:370px; margin-right:10px" markdown="1">
 
 ### Project 1
 
@@ -24,7 +24,7 @@ This is a teaser image of a 3-D Map showing Resident 311 Rat-related requests in
 
 </div>
 
-<div style="display: table-cell; width:370px; position = 'right'" markdown="1">
+<div style="display: table-cell; width:370px" markdown="1">
 
 ### Project 2
 
@@ -44,7 +44,7 @@ This is a teaser image of a gif showing the percentage of housing citations by n
 </div>
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+<div style="display: table-cell; width:370px; margin-right:10px" markdown="1">
 
 ### Project 3
 
@@ -60,7 +60,7 @@ This project shows the geographic distribution of attendees from four pop-up eve
 Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Community Statistical Areas  with Demographic/Census Data](https://bniajfi.org/community/Baltimore%20City/) </small>
 
 </div>
-<div style="display: table-cell; width:370px; position = 'right'" markdown="1">
+<div style="display: table-cell; width:370px" markdown="1">
 
 ### Project 4
 
