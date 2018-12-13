@@ -1,15 +1,9 @@
 ---
-Travis Lageman
-
-### Analysis of GROW Center Attendees (Spring 2018)
-
-*a full write-up can be found [here](GES 686 Final Project - Lageman.pdf) including background, methods and results
-
 #### Project Description
 
 The purpose of this study is to explore how and where resources, provided by Baltimore City Department of Public Works (DPW) GROW (Green Resources and Outreach for Watersheds) Centers, are accessed by city residents. This study looks specifically at where GROW Center users originate, and the demographics of these areas. In doing so, insight into the relationships between Baltimore City residents and GROW Center pop-ups is revealed. The target population in this study are GROW Center users/attendees.
 
-#### Maps
+*a full write-up can be found [here](GES 686 Final Project - Lageman.pdf) including background, methods and results#### Maps
 
 ![Four Pop-ups Map](DPW_4PopupLocations.jpg)
 
