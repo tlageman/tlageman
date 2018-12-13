@@ -24,6 +24,9 @@ A 3-D Map showing Resident 311 Rat-related service requests in Baltiomre City fr
 
 </div>
 
+<div style="width: 10px">
+</div>
+
 <div style="display: table-cell; width:370px" markdown="1">
 
 ### Project 2
