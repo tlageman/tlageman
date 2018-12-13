@@ -24,7 +24,7 @@ A 3-D Map showing Resident 311 Rat-related service requests in Baltiomre City fr
 
 </div>
 
-<div style="width: 10px">
+<div style="width: 5px">
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
@@ -63,6 +63,10 @@ This project shows the geographic distribution of attendees from four pop-up eve
 Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Community Statistical Areas  with Demographic/Census Data](https://bniajfi.org/community/Baltimore%20City/) </small>
 
 </div>
+
+<div style="width: 5px">
+</div>
+
 <div style="display: table-cell; width:370px" markdown="1">
 
 ### Project 4
