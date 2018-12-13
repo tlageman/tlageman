@@ -24,7 +24,7 @@ A 3-D Map showing Resident 311 Rat-related service requests in Baltiomre City fr
 
 </div>
 
-<div style="width: 5px">
+<div style="width:5px">
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
@@ -64,7 +64,7 @@ Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Communit
 
 </div>
 
-<div style="width: 5px">
+<div style="width:5px">
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
