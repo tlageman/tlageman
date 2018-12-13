@@ -1,11 +1,4 @@
 ---
-
-Travis Lageman
-
-#### Baltimore City Housing Citations (2008-2018)
-
-![GIF](Housing_Lageman.gif)
-
 ##### Project Description:
 
 Housing Citations issued by Baltimore City are shown from 2008
@@ -18,6 +11,10 @@ Some important historical context to consider:
 * 2008/9 was a period of recession in the U.S.
 * 2010 was the first year of Mayor Stephanie Rawlings-Blake's [Vacants to Value (V2V) initative](http://www.vacantstovalue.org/vtov_faq), which still relies on streamlined [Code Enforcement](https://www.citypaper.com/news/mobtownbeat/bcp-090716-mob-v2v-20160906-story.html) to address neglected properties to the present day.
 * 2016 (December) Mayor Catherine Pugh took office in Baltimore and has pledged to perform massive reinvestment projects. This means tearing down vacant homes which requires acquiring them first [Video](https://www.baltimoresun.com/news/maryland/baltimore-city/bs-md-ci-vacant-demolition-blocks-20180227-story.html)
+
+##### Baltimore City Housing Citations (2008-2018)
+
+![GIF](Housing_Lageman.gif)
 
 ##### Data:
 
