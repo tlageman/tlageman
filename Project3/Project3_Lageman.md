@@ -9,7 +9,7 @@ The purpose of this study is to explore how and where resources, provided by Bal
 
 ![Density Map](DPW_DensityAnalysis.png)
 
-#### Data
+##### Data
 
 GROW Center Event Data (Confidential)
 
@@ -19,7 +19,7 @@ GROW Center Event Data (Confidential)
 * Median Household Income (2015)
 * Percentage of Area Covered by Trees (2011)
 
-#### Conclusions:
+##### Conclusions:
 
 Results indicate that GROW Centers attracted a notable local population of participants that also included more distant travelers (Figure 1). This suggests that GROW Centers in different locales are effective at reaching more local greeners. Additionally, most residents using GROW Center resources come from areas of lower income, less trees, more vacant properties and more community open spaces. This is reassuring for GROW Center objectives. Resources provided through GROW Centers are targeted towards community greening activities that promote vacant lot revitalization, maintenance of greenspaces and to increase tree canopy.
 
