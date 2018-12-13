@@ -1,7 +1,5 @@
 
 ---
-Travis Lageman
-
 ### Project Description:
 
   **Methods:**
@@ -24,7 +22,7 @@ Travis Lageman
 
   ![311 Rat Requests 3D](311RatRequests_Lageman.png)
 
-  ### Data:
+### Data:
   * Baltimore City Real Property Database - [Baltimore City Open GIS Portal](https://gis-baltimore.opendata.arcgis.com/datasets/b41551f53345445fa05b554cd77b3732_0)
   * Baltimore City Community Statistical Area with Demographic Data - [BNIA](https://bniajfi.org/)
   * 311 Service Requests for Rat/Rodent Problems - [Baltimore City Open GIS Portal](https://data.baltimorecity.gov/City-Services/311-Customer-Service-Requests/9agw-sxsr)
