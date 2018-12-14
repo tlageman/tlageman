@@ -77,7 +77,7 @@ Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Communit
 
 This is where my final project for GES 687 will be put.
 
-<small>__Tools__: QGIS, R
+<small>__Tools__: ArcGIS, QGIS, GeoDa
 
 <small>__Data__:
 [TBD](TBD.com) </small>
