@@ -75,12 +75,13 @@ Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Communit
 
 [See more details here.](https://tlageman.github.io/Project4/FinalProject_Lageman.html)
 
-This is where my final project for GES 687 will be put.
+As learned over the semester, a variety of analyses were performed on 911 Fire Calls and Fire Stations in Baltimore City. In particualr, the main goal for this project was to perform a spatial regression to answer the following question:
+  >__Do certain socio-economic indicators account for variations in 911 Fire Calls in Baltimore City?__
 
 <small>__Tools__: ArcGIS, QGIS, GeoDa
 
 <small>__Data__:
-[TBD](TBD.com) </small>
+[Baltimore City 911 Call Log](https://data.baltimorecity.gov/Public-Safety/911-Police-Calls-for-Service/xviu-ezkt),[Baltimore City Fire Stations](http://gis-baltimore.opendata.arcgis.com/datasets/fire-stations) , [TIGER/Line Demographic & Economic Data](https://www.census.gov/geo/maps-data/data/tiger-data.html)  </small>
 
 </div>
 </div>
