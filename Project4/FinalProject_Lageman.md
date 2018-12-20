@@ -92,7 +92,7 @@ For time of day, coding was done by morning (6am-12pm), afternoon (12pm-6pm), ev
 
 ![TODHisto](911FiresByTOD.png)
 
-##### Map Movie
+##### Cartogram
 
 One last feature that was explored in GeoDa was the Cartogram. Cartograms were created for fire station points based on the number of fires within 1 mile of each station in a given season (i.e. Fall, Spring, etc.) for the year 2015. Those cartograms were combined into a GIF, and while not very insightful, it shows how the Eastern and Western Baltimore Fire Stations have higher number of nearby fire calls throughout the year, irregardless of the season.
 
