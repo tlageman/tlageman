@@ -1,0 +1,39 @@
+>>12/19/2018 10:29:03 PM
+REGRESSION
+----------
+SUMMARY OF OUTPUT: SPATIAL LAG MODEL - MAXIMUM LIKELIHOOD ESTIMATION
+Data set            : CensCount
+Spatial Weight      : _Weights
+Dependent Variable  :   FireByPop  Number of Observations:  197
+Mean dependent var  :   0.0289949  Number of Variables   :    6
+S.D. dependent var  :   0.0167528  Degrees of Freedom    :  191
+Lag coeff.   (Rho)  :    0.219634
+
+R-squared           :    0.555051  Log likelihood        :     604.922
+Sq. Correlation     : -            Akaike info criterion :    -1197.84
+Sigma-square        : 0.000124877  Schwarz criterion     :    -1178.14
+S.E of regression   :   0.0111748
+
+-----------------------------------------------------------------------------
+       Variable       Coefficient     Std.Error       z-value    Probability
+-----------------------------------------------------------------------------
+       W_FireByPop      0.219634      0.0862647        2.54605     0.01090
+          CONSTANT     -0.034995       0.112732      -0.310427     0.75624
+          MedHHI16  -1.78525e-07    3.80395e-08       -4.69316     0.00000
+        IndAreaPro     0.0220273     0.00525136        4.19459     0.00003
+        YEAR_BUILD   2.67198e-05    5.73416e-05       0.465975     0.64123
+            VacPro     0.0751002      0.0113701        6.60506     0.00000
+-----------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS
+DIAGNOSTICS FOR HETEROSKEDASTICITY 
+RANDOM COEFFICIENTS
+TEST                                     DF      VALUE        PROB
+Breusch-Pagan test                       4        52.5884     0.00000
+
+DIAGNOSTICS FOR SPATIAL DEPENDENCE
+SPATIAL LAG DEPENDENCE FOR WEIGHT MATRIX : _Weights
+TEST                                     DF      VALUE        PROB
+Likelihood Ratio Test                    1         6.2142     0.01267
+============================== END OF REPORT ================================
+

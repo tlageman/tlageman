@@ -1,0 +1,53 @@
+>>12/19/2018 10:28:37 PM
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES ESTIMATION
+Data set            :  CensCount
+Dependent Variable  :   FireByPop  Number of Observations:  197
+Mean dependent var  :   0.0289949  Number of Variables   :    5
+S.D. dependent var  :   0.0167528  Degrees of Freedom    :  192 
+
+R-squared           :    0.536656  F-statistic           :     55.5948
+Adjusted R-squared  :    0.527003  Prob(F-statistic)     : 4.43624e-31
+Sum squared residual:   0.0256178  Log likelihood        :     601.815
+Sigma-square        : 0.000133426  Akaike info criterion :    -1193.63
+S.E. of regression  :    0.011551  Schwarz criterion     :    -1177.21
+Sigma-square ML     :  0.00013004
+S.E of regression ML:   0.0114035
+
+-----------------------------------------------------------------------------
+       Variable      Coefficient      Std.Error    t-Statistic   Probability
+-----------------------------------------------------------------------------
+          CONSTANT     -0.017453       0.115706       -0.15084     0.88026
+          MedHHI16  -2.20638e-07    3.64775e-08        -6.0486     0.00000
+        IndAreaPro     0.0244001     0.00531732        4.58879     0.00001
+        YEAR_BUILD   2.08493e-05    5.89783e-05       0.353509     0.72409
+            VacPro     0.0883242      0.0108284        8.15676     0.00000
+-----------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS  
+MULTICOLLINEARITY CONDITION NUMBER   384.830301
+TEST ON NORMALITY OF ERRORS
+TEST                  DF           VALUE             PROB
+Jarque-Bera            2            90.3269          0.00000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY  
+RANDOM COEFFICIENTS
+TEST                  DF           VALUE             PROB
+Breusch-Pagan test     4            50.7557          0.00000
+Koenker-Bassett test   4            23.1650          0.00012
+
+DIAGNOSTICS FOR SPATIAL DEPENDENCE   
+FOR WEIGHT MATRIX : _Weights
+   (row-standardized weights)
+TEST                          MI/DF        VALUE          PROB
+Moran's I (error)             0.0257        0.9580        0.33805
+Lagrange Multiplier (lag)       1           6.6054        0.01017
+Robust LM (lag)                 1          11.6835        0.00063
+Lagrange Multiplier (error)     1           0.3578        0.54975
+Robust LM (error)               1           5.4359        0.01973
+Lagrange Multiplier (SARMA)     2          12.0413        0.00243
+============================== END OF REPORT ================================
+
+
+
