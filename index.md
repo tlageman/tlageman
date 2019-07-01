@@ -93,7 +93,7 @@ As learned over the semester, a variety of analyses were performed on 911 Fire C
  
 ### Project 5
 
-![Proj5_Teaser](Project5/GROW_teaser.png)
+![Proj5_Teaser](Project5/MS_Paper1_Map_teaser.png)
 
 [See more details here.](https://tlageman.github.io/Project5/MS_Paper_1.html)
 
@@ -111,7 +111,7 @@ GROW Center & Attendee Data, U.S. Census Data/Shapefiles (See Paper)  </small>
 
 ### Project 6
 
-![Proj6_Teaser](Project6/GROW_teaser.png)
+![Proj6_Teaser](Project6/MS_Paper2_Map_teaser.png)
 
 [See more details here.](https://tlageman.github.io/Project6/MS_Paper_2.html)
 
