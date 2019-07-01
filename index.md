@@ -45,6 +45,7 @@ Using python, geocoded housing citations were split up by year from 2008-2018 an
 
 </div>
 </div>
+
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:10px" markdown="1">
@@ -60,7 +61,7 @@ This project shows the geographic distribution of attendees from four pop-up eve
 <small>__Tools__: ArcGIS, Kernel Analysis
 
 <small>__Data__:
-Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Community Statistical Areas  with Demographic/Census Data](https://bniajfi.org/community/Baltimore%20City/) </small>
+Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Community Statistical Areas with Demographic/Census Data](https://bniajfi.org/community/Baltimore%20City/) </small>
 
 </div>
 
@@ -86,3 +87,38 @@ As learned over the semester, a variety of analyses were performed on 911 Fire C
 </div>
 </div>
 
+<!--This is the third row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px; margin-right:10px" markdown="1">
+ 
+### Project 5
+
+![Proj5_Teaser](Project 5/GROW_teaser.png)
+
+[See more details here.](https://tlageman.github.io/Project 5/MS_Paper_1.html)
+
+<small>__Tools__: QGIS, ArcGIS
+
+<small>__Data__:
+GROW Center & Attendee Data, U.S. Census Data/Shapefiles (See Paper)  </small>
+
+</div>
+
+<div style="width:5px">
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
+
+### Project 6
+
+![Proj6_Teaser](Project6/GROW_teaser.png)
+
+[See more details here.](https://tlageman.github.io/Project6/MS_Paper_2.html)
+
+<small>__Tools__: ArcGIS, QGIS, GeoDa
+
+<small>__Data__:
+[Baltimore City 911 Call Log](https://data.baltimorecity.gov/Public-Safety/911-Police-Calls-for-Service/xviu-ezkt),[Baltimore City Fire Stations](http://gis-baltimore.opendata.arcgis.com/datasets/fire-stations) , [TIGER/Line Demographic & Economic Data](https://www.census.gov/geo/maps-data/data/tiger-data.html)  </small>
+
+</div>
+</div>
