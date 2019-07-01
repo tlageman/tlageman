@@ -8,3 +8,5 @@ the GROW Center Coordinator. Data analyzed and maps produced using ArcGIS.
 
 ![Paper Download](MS_Paper1_Lageman.pdf)
 
+*More information on the GROW Center Project can be found at https://publicworks.baltimorecity.gov/grow-center
+
