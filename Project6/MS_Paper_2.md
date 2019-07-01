@@ -3,5 +3,5 @@
 
 A research paper....
 
-[Paper Download](MS_Paper2_Lageman.pdf)
+[Paper Download](Lageman_Paper2_Final.pdf)
 
