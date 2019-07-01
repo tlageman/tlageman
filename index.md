@@ -93,9 +93,9 @@ As learned over the semester, a variety of analyses were performed on 911 Fire C
  
 ### Project 5
 
-![Proj5_Teaser](Project 5/GROW_teaser.png)
+![Proj5_Teaser](Project5/GROW_teaser.png)
 
-[See more details here.](https://tlageman.github.io/Project 5/MS_Paper_1.html)
+[See more details here.](https://tlageman.github.io/Project5/MS_Paper_1.html)
 
 <small>__Tools__: QGIS, ArcGIS
 
