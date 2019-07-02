@@ -77,6 +77,7 @@ Attendee Data Collected by GROW Center Staff (Confidential), [Baltimore Communit
 [See more details here.](https://tlageman.github.io/Project4/FinalProject_Lageman.html)
 
 As learned over the semester, a variety of analyses were performed on 911 Fire Calls and Fire Stations in Baltimore City. In particualr, the main goal for this project was to perform a spatial regression to answer the following question:
+
   >__Do certain socio-economic indicators account for variations in 911 Fire Calls in Baltimore City?__
 
 <small>__Tools__: ArcGIS, QGIS, GeoDa
@@ -97,6 +98,8 @@ As learned over the semester, a variety of analyses were performed on 911 Fire C
 
 [See more details here.](https://tlageman.github.io/Project5/MS_Paper_1.html)
 
+Attendee data for Baltimore City GROW Centers was analyzed spatially based on several factors: income, tree canopy, community managed open spaces, and vacant properties. It was found that targetting specific areas with "pop up" GROW Center programming was effective at reaching targeted areas to meet programmatic goals.
+
 <small>__Tools__: QGIS, ArcGIS
 
 <small>__Data__:
@@ -111,14 +114,15 @@ GROW Center & Attendee Data, U.S. Census Data/Shapefiles (See Paper)  </small>
 
 ### Project 6
 
-![Proj6_Teaser](Project6/MS_Paper2_Map_teaser.png)
+![Proj6_Teaser](Project6/Project6_Teaser.png)
 
 [See more details here.](https://tlageman.github.io/Project6/MS_Paper_2.html)
 
+Using various secondary data for Baltimore City, a managed greenspace-health link was explored using spatial regression at the census tract level. Results did not indicate a significant relationship, rather that socioeconomic indicators (i.e. Area Deprivation Index) were most influential on health outcomes.  
+
 <small>__Tools__: ArcGIS, QGIS, GeoDa
 
-<small>__Data__:
-[Baltimore City 911 Call Log](https://data.baltimorecity.gov/Public-Safety/911-Police-Calls-for-Service/xviu-ezkt),[Baltimore City Fire Stations](http://gis-baltimore.opendata.arcgis.com/datasets/fire-stations) , [TIGER/Line Demographic & Economic Data](https://www.census.gov/geo/maps-data/data/tiger-data.html)  </small>
+<small>__Data__:  See Table 1 in Paper </small>
 
 </div>
 </div>
