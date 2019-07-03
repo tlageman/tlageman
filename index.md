@@ -7,6 +7,7 @@ title: Travis Lageman's Portfolio
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:20px" markdown="1">
 
+
 ### Project 1
 
 ![Proj1_Teaser](Project1/311RatTeaser_Lageman.png)
