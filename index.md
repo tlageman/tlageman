@@ -98,7 +98,7 @@ As learned over the semester, a variety of analyses were performed on 911 Fire C
 
 [See more details here.](https://tlageman.github.io/Project5/MS_Paper_1.html)
 
-Attendee data for Baltimore City GROW Centers was analyzed spatially based on several factors: income, tree canopy, community managed open spaces, and vacant properties. It was found that targetting specific areas with "pop up" GROW Center programming was effective at reaching targeted areas to meet programmatic goals.
+This is a slightly expanded report of project 3. Attendee data for Baltimore City GROW Centers was analyzed spatially based on several factors: income, tree canopy, community managed open spaces, and vacant properties. It was found that targetting specific areas with "pop up" GROW Center programming was effective at reaching targeted areas to meet programmatic goals.
 
 <small>__Tools__: QGIS, ArcGIS
 
