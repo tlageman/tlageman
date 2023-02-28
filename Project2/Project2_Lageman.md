@@ -30,8 +30,7 @@ Some important historical context to consider:
 5. Field calculator was used to generate a "Year" field with year of violation.
 6. Python code was written to select features for each year (2008-18)
 and write those selected features to a new shapefile for analysis. (see Code)
-7. Each newly created point shapefile was then loaded and counted using the
-'Count Points in Polygon' function with the Neighborhoods polygon as a batch process. Each file saved as CountYear.
+7. Each newly created point shapefile was then loaded and counted using the 'Count Points in Polygon' function with the Neighborhoods polygon as a batch process. Each file saved as CountYear.
 8. Field caclulator used to calculate the percentage of citations in each neighborhood by using total number of citations from each year shapefile.
 9. Symbology set to graduated and classified manually. Style copied to each CountYear shapefile.
 10. Each layer image was saved and imported to photoshop to create gif with a 1 second delay for each image.
